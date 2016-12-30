@@ -1,0 +1,19 @@
+package com.bjsxt.dao.impl;
+
+import org.springframework.stereotype.Component;
+
+import com.bjsxt.dao.LogDAO;
+import com.bjsxt.model.Log;
+
+@Component("logDAO") 
+public class LogDAOImpl extends SuperDAO implements LogDAO {
+
+	
+	public void save(Log log) {
+		
+		//this.getHibernateTemplate().save(log);
+		this.getHibernateTemplate().save(log);
+		//throw new RuntimeException("error!");
+	}
+
+}

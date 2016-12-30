@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Spring2.5.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Hibernate3.3.2"/>
+	<classpathentry kind="lib" path="D:/workplace/Spring_2200_Spring_Hibernate_HibernateDaoSupport_2/lib/hibernate/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="D:/workplace/Spring_2200_Spring_Hibernate_HibernateDaoSupport_2/lib/hibernate/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="D:/workplace/Spring_2200_Spring_Hibernate_HibernateDaoSupport_2/lib/hibernate/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/workplace/Spring_2200_Spring_Hibernate_HibernateDaoSupport_2/lib/hibernate/ejb3-persistence.jar"/>
+	<classpathentry kind="lib" path="D:/workplace/Spring_2200_Spring_Hibernate_HibernateDaoSupport_2/lib/hibernate/hibernate3.jar"/>
+	<classpathentry kind="lib" path="D:/workplace/Spring_2200_Spring_Hibernate_HibernateDaoSupport_2/lib/hibernate/hibernate-annotations.jar"/>
+	<classpathentry kind="lib" path="D:/workplace/Spring_2200_Spring_Hibernate_HibernateDaoSupport_2/lib/hibernate/hibernate-commons-annotations.jar"/>
+	<classpathentry kind="lib" path="D:/workplace/Spring_2200_Spring_Hibernate_HibernateDaoSupport_2/lib/hibernate/javassist-3.9.0.GA.jar"/>
+	<classpathentry kind="lib" path="D:/workplace/Spring_2200_Spring_Hibernate_HibernateDaoSupport_2/lib/hibernate/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/workplace/Spring_2200_Spring_Hibernate_HibernateDaoSupport_2/lib/hibernate/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="D:/workplace/Spring_2200_Spring_Hibernate_HibernateDaoSupport_2/lib/hibernate/slf4j-api-1.5.8.jar"/>
+	<classpathentry kind="lib" path="D:/workplace/Spring_2200_Spring_Hibernate_HibernateDaoSupport_2/lib/hibernate/slf4j-log4j12-1.5.8.jar"/>
+	<classpathentry kind="lib" path="D:/workplace/Spring_2200_Spring_Hibernate_HibernateDaoSupport_2/lib/aspectjrt.jar"/>
+	<classpathentry kind="lib" path="D:/workplace/Spring_2200_Spring_Hibernate_HibernateDaoSupport_2/lib/aspectjweaver.jar"/>
+	<classpathentry kind="lib" path="D:/workplace/Spring_2200_Spring_Hibernate_HibernateDaoSupport_2/lib/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="D:/workplace/Spring_2200_Spring_Hibernate_HibernateDaoSupport_2/lib/commons-dbcp.jar"/>
+	<classpathentry kind="lib" path="D:/workplace/Spring_2200_Spring_Hibernate_HibernateDaoSupport_2/lib/commons-logging.jar"/>
+	<classpathentry kind="lib" path="D:/workplace/Spring_2200_Spring_Hibernate_HibernateDaoSupport_2/lib/commons-pool.jar"/>
+	<classpathentry kind="lib" path="D:/workplace/Spring_2200_Spring_Hibernate_HibernateDaoSupport_2/lib/mysql-connector-java-5.1.10-bin.jar"/>
+	<classpathentry kind="lib" path="D:/workplace/Spring_2200_Spring_Hibernate_HibernateDaoSupport_2/lib/spring.jar" sourcepath="E:/[www.java1234.com]尚学堂spring视频教程/soft/spring-framework-2.5.6/dist/spring-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
