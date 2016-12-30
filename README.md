@@ -1,0 +1,2 @@
+# Spring_HibernateDaoSupport
+添加用hibernateDaoSupport来对数据进行管理
